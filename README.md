@@ -18,6 +18,7 @@
 7. git bash에서 ssh-keygen 명령으로 암호키 생성
 
 8. 내컴퓨터에서 생성된 키젠이 있는 디렉토리로 이동해서 id_rsa.pub 파일을 찾아 열고 그 안의 내용을 복사하기 한다. (우클릭으로 복사해야함)
+C:\Users\508-15\.ssh\id_rsa
 
 9. 로그인 된 github에서 가장 오른쪽 메뉴의 setting> SSH and GPG 선택
 
